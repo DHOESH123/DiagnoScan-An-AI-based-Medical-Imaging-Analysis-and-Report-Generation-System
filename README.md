@@ -29,5 +29,5 @@ The app is designed for demo/educational purposes and **not** for clinical diagn
 
 ---
 
-## Repository Structure
+
 
