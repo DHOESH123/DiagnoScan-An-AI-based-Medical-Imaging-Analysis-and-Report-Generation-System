@@ -10,3 +10,5 @@ faiss-cpu
 numpy
 ollama
 langchain-classic
+langchain_ollama
+
