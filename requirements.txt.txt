@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+matplotlib
+pillow
+reportlab
+PyPDF2
+langchain
+langchain_community
+faiss-cpu
+numpy
+ollama
+langchain-classic
